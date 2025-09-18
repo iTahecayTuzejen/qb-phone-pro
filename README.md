@@ -35,4 +35,4 @@ If you enjoy this release, please support us by giving a ⭐ star on GitHub – 
 
 ---
 
-🚀 Enhance your FiveM server today with **qb-phone-v2** – Free for all, Premium for those who want the next level!  
+🚀 Enhance your FiveM server today with **qb-phone pro** – Free for all, Premium for those who want the next level!  
